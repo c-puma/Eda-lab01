@@ -6,6 +6,7 @@ public class Ejercicio3 {
 		// TODO Auto-generated method stub
 		
 		System.out.println ("¡Hola mundo!");
+		System.out.println ("¡Bienvenido al curso");
 
 	}
 }
