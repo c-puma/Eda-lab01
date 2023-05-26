@@ -7,6 +7,7 @@ public class Ejercicio3 {
 		
 		System.out.println ("¡Hola mundo!");
 		System.out.println ("¡Bienvenido al curso");
+		System.out.println ("Cristhian Willians Puma Larico");
 
 	}
 }
